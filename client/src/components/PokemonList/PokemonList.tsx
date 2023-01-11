@@ -19,7 +19,7 @@ const PokemonList = ({ pokemons, isLoading, notFoundPokemon }: Props) => {
       <Loader isLoading={isLoading} />
 
       <div
-        className="flex__center"
+        className="flex__center message__ready"
         style={{
           display: !notFoundPokemon && pokemons.length === 0 && !isLoading ? "flex" : "none",
           flexDirection: "column",

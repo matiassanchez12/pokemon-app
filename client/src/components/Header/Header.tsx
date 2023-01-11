@@ -38,7 +38,7 @@ const Header = () => {
 
     if (filteredPokemons.length === 0) {
       setNotFoundPokemon(true);
-
+      setFilterPokemons([]);
       return;
     }
 

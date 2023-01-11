@@ -73,3 +73,9 @@
   letter-spacing: 0.04em;
   text-transform: capitalize;
 }
+
+@media screen and (max-width: 1150px) {
+  .custom__button {
+    width: 100%;
+  }
+}

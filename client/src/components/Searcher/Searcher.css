@@ -1,6 +1,7 @@
 .app__searcher {
   display: flex;
   gap: 1.4rem;
+  flex-wrap: wrap;
 
   padding: 2rem 0;
 }
@@ -22,4 +23,10 @@
 .text__help {
   padding-top: 1rem;
   color: var(--color-grey);
+}
+
+@media screen and (max-width: 1150px) {
+  .searcher__input {
+    width: 290px;
+  }
 }

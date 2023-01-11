@@ -11,3 +11,9 @@
 .footer__link:hover {
   color: var(--color-golden);
 }
+
+@media screen and (max-width: 1150px) {
+  .app__footer {
+    flex-direction: column;
+  }
+}

@@ -6,3 +6,9 @@
 
   min-height: 330px;
 }
+
+@media screen and (max-width: 1150px) {
+  .message__ready {
+    text-align: center;
+  }
+}
