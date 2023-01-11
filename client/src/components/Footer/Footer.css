@@ -1,0 +1,13 @@
+.app__footer {
+  padding: 0 2rem;
+  padding-top: 2rem;
+}
+
+.footer__link {
+  text-decoration: underline;
+  transition: all 0.4s ease-in-out;
+}
+
+.footer__link:hover {
+  color: var(--color-golden);
+}

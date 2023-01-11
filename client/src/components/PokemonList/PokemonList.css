@@ -1,0 +1,8 @@
+.app__pokemonlist {
+  display: flex;
+
+  flex-direction: column;
+  gap: 1.4rem;
+
+  min-height: 330px;
+}

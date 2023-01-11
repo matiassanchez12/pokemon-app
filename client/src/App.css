@@ -1,0 +1,75 @@
+.app__background {
+  background-color: #1b2837;
+  min-height: 100vh;
+}
+
+.section__padding {
+  padding: 4rem 6rem;
+}
+
+.flex__center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex__start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.flex__between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.custom__button {
+  background-color: var(--color-crimson);
+  color: var(--color-black);
+  font-family: var(--font-base);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 28px;
+  font-size: 16px;
+  padding: 0.5rem 1.5rem;
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 40px;
+
+  transition: 0.2s all ease-in-out;
+}
+
+.custom__button:hover {
+  background-color: var(--color-golden);
+}
+
+.p__opensans {
+  font-family: var(--font-base);
+  color: var(--color-white);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  line-height: 28px;
+  font-size: 16px;
+}
+
+.h3__opensans {
+  font-family: var(--font-base);
+  color: var(--color-white);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  line-height: 28px;
+  font-size: 22px;
+}
+
+.headtext__opensans {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  font-size: 64px;
+  line-height: 83.2px;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+}
