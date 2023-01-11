@@ -2,7 +2,7 @@ Este es el resultado del Ejercicio para postulados Ixpandit.
 
 Primero voy a mencionar las tecnologías utilizadas, luego explicaré la forma de hacer funcionar la aplicación de forma local y por último explicaré sobre como ejecutar los test automaticos.
 
-Las tecnologías utilzadas son: React.js con Typescript y Css3 para el frontend y Express con Typescript para el backend. Para ambos lados, utilicé la libreria Axios para poder hacer peticiones a las api.
+Las tecnologías utilzadas son: React.js con Typescript y Css3 para el frontend y Express con Typescript para el backend. Para ambos lados, hice uso de la libreria Axios para poder hacer peticiones a las api.
 
 Para comenzar a utilizar la app, es necesario:
 
