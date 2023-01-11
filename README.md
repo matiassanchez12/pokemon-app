@@ -10,4 +10,4 @@ Para comenzar a utilizar la app, es necesario:
 
 2- Una vez instalados los modulos de los dos lados de la app, es necesario iniciar los servidores. Por lo tanto, desde la carpeta base del proyecto, correr el siguiente comando: npm run start
 
-3- El ultimo paso es ingresar desde el navegador web a la url que devuelve la consola cuando ejecutamos el comando npm run start (en mi caso aparece de la siguiente forma Local: http://127.0.0.1:5173/)
+3- El ultimo paso es ingresar desde el navegador web a la url que devuelve la consola cuando ejecutamos el comando npm run start (en mi caso, lo que devuelve el comando aparece de la siguiente forma **"Local: http://127.0.0.1:5173/"**)
